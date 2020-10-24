@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/luisreales/pruebaReact/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/luisreales/pruebaReact/static/js/main.563db31f.chunk.js",
+    "main.js.map": "/luisreales/pruebaReact/static/js/main.563db31f.chunk.js.map",
+    "runtime-main.js": "/luisreales/pruebaReact/static/js/runtime-main.f74cce51.js",
+    "runtime-main.js.map": "/luisreales/pruebaReact/static/js/runtime-main.f74cce51.js.map",
+    "static/js/2.3faca464.chunk.js": "/luisreales/pruebaReact/static/js/2.3faca464.chunk.js",
+    "static/js/2.3faca464.chunk.js.map": "/luisreales/pruebaReact/static/js/2.3faca464.chunk.js.map",
+    "static/js/3.fabf4e79.chunk.js": "/luisreales/pruebaReact/static/js/3.fabf4e79.chunk.js",
+    "static/js/3.fabf4e79.chunk.js.map": "/luisreales/pruebaReact/static/js/3.fabf4e79.chunk.js.map",
+    "index.html": "/luisreales/pruebaReact/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/luisreales/pruebaReact/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3faca464.chunk.js.LICENSE.txt": "/luisreales/pruebaReact/static/js/2.3faca464.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/luisreales/pruebaReact/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f74cce51.js",
+    "static/js/2.3faca464.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.563db31f.chunk.js"
+  ]
+}
